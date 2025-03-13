@@ -34,7 +34,9 @@
 
 - 🌱 I’m currently learning **Rust, Swift, Jenkins**
 
-- 👨‍💻 All of my projects are available at [https://github.com/delower186](https://github.com/delower186)
+- 👨‍💻 Apify Marketplace at [https://apify.com/sandaliaapps](https://apify.com/sandaliaapps)
+- 👨‍💻 Google Play Store at [https://play.google.com](https://play.google.com/store/apps/dev?id=5334255615129443263)
+- 👨‍💻 Windows App Store at [https://apps.microsoft.com](https://apps.microsoft.com/search/publisher?name=Sandalia+Games)
 
 - 💬 Ask me about **Laravel, Selenium, Appium, Playwright, Cypress, Python, Java**
 
