@@ -21,7 +21,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Delower</h1>
+<h3 align="center">I am a Software Automation Engineer from Bangladesh</h3>
 
 ###
 
@@ -29,9 +30,24 @@
 
 ###
 
-<p align="left">I'm Delower from Bangladesh<br><br>- 🔭 I’m working as Software Automation Engineer<br>- 📚 I'm currently learning Rust & Swift<br>- ⚡ In my free time I explore new technologies, work on personal projects, and enhance my skills in automation and development.</p>
+- 🔭 I’m currently working on [LaraKickStarter](https://github.com/delower186/LaraKickStarter)
+
+- 🌱 I’m currently learning **Rust, Swift, Jenkins**
+
+- 👨‍💻 All of my projects are available at [https://github.com/delower186](https://github.com/delower186)
+
+- 💬 Ask me about **Laravel, Selenium, Appium, Playwright, Cypress, Python, Java**
+
+- 📫 How to reach me **delower@sandalia.com.bd**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)
+
+- ⚡ Fun fact **I think I am childish :)**
 
 ###
+<h3 align="left">🏆   My Tropies :</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delower186" alt="delower186" /></a>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -137,6 +153,8 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 </div>
 
 ###
@@ -146,7 +164,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=delower186&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delower186&show_icons=true&locale=en&layout=compact" alt="delower186" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delower186&show_icons=true&locale=en" alt="delower186" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delower186&" alt="delower186" /></p>
 </div>
 
 ###
