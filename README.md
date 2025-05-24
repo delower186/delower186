@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Rust, Swift, Jenkins**
 
-- 👨‍💻 Upwork at [Delower H.](https://www.upwork.com/freelancers/~01a6019a9f9daf20ac)
+- 👨‍💻 Upwork at [https://www.upwork.com/freelancers/delower](https://www.upwork.com/freelancers/~01a6019a9f9daf20ac)
 - 👨‍💻 Apify Marketplace at [https://apify.com/sandaliaapps](https://apify.com/sandaliaapps)
 - 👨‍💻 Google Play Store at [https://play.google.com](https://play.google.com/store/apps/dev?id=5334255615129443263)
 - 👨‍💻 Windows App Store at [https://apps.microsoft.com](https://apps.microsoft.com/search/publisher?name=Sandalia+Games)
