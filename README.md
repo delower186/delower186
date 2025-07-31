@@ -45,8 +45,12 @@
   - Automation: **Selenium, Appium, Playwright, Cypress, JMeter, Postman**
   - Security: **Zap**
   - Full Stack Development:
-    - Frameworks: **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**
     - Databases: **MySQL, SQLite, MariaDB**
+    - Web
+      - Frameworks: **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**
+    - Cross Platform (Android, iOS, Windows)
+      - Frameworks: **.NET MAUI, Flutter**
+
 - 📫 How to reach me **delower@sandalia.com.bd**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)
