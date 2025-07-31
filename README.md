@@ -41,7 +41,7 @@
 - 👨‍💻 Wordpress Repository at [https://profiles.wordpress.org/delower186/](https://profiles.wordpress.org/delower186/)
 
 - 💬 Ask me about Automation **Laravel, Selenium, Appium, Playwright, Cypress, JMeter, Postman, Python, Java, C#, PHP, MySQL, SQLite, MariaDB, WordPress, Bootstrap, Tailwindcss, jQuery, JavaScript**
--- Automation
+  - Automation
 - 📫 How to reach me **delower@sandalia.com.bd**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)
