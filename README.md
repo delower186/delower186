@@ -40,8 +40,13 @@
 - 👨‍💻 Windows App Store at [https://apps.microsoft.com](https://apps.microsoft.com/search/publisher?name=Sandalia+Games)
 - 👨‍💻 Wordpress Repository at [https://profiles.wordpress.org/delower186/](https://profiles.wordpress.org/delower186/)
 
-- 💬 Ask me about Automation **Laravel, Selenium, Appium, Playwright, Cypress, JMeter, Postman, Python, Java, C#, PHP, MySQL, SQLite, MariaDB, WordPress, Bootstrap, Tailwindcss, jQuery, JavaScript**
-  - Automation
+- 💬 Ask me about: 
+  - Programming Languages: **Java, C#, C, PHP, Python, Kotlin, SQL, JavaScript, HTML, CSS**
+  - Automation: **Selenium, Appium, Playwright, Cypress, JMeter, Postman**
+  - Security: **Zap**
+  - Full Stack Development:
+    - Frameworks: **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**
+    - Databases: **MySQL, SQLite, MariaDB**
 - 📫 How to reach me **delower@sandalia.com.bd**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)
