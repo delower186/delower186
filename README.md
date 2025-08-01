@@ -43,9 +43,11 @@
 - 💬 Ask me about: 
   - Programming Languages: **Java, C#, C, PHP, Python, Kotlin, SQL, JavaScript, HTML, CSS**
   - Automation: **Selenium, Appium, Playwright, Cypress, JMeter, Postman**
+  - Web Scraper: **Crawlee, Beautiful Soup, Scrapy**
   - Security: **Zap**
+  - AI/LLM: **ChatGPT, Ollama**
   - Full Stack Development:
-    - Databases: **MySQL, SQLite, MariaDB**
+    - Databases: **MySQL, SQLite, MariaDB, Airtable**
     - Web
       - Frameworks: **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**
     - Cross Platform (Android, iOS, Windows)
