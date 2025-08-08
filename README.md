@@ -22,42 +22,54 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Delower</h1>
-<h3 align="center">I am a Software Automation Engineer from Bangladesh</h3>
+<h3 align="center">Full Stack Developer | QA Automation Specialist | Web Scraping & AI Enthusiast</h3>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+I help businesses build fast, reliable, and automated solutions across web, mobile, and desktop platforms.
 
-- 🔭 I’m currently working on [LaraKickStarter](https://github.com/delower186/LaraKickStarter)
+| 🔖 Info Type            | 📌 Details                                                                                   |
+|------------------------|----------------------------------------------------------------------------------------------|
+| 📫 Email               | [delower@sandalia.com.bd](mailto:delower@sandalia.com.bd)                                    |
+| 📄 LinkedIn Profile    | [linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)                         |
+| ⚡ Fun Fact            | I think I am childish 😊   
 
-- 🌱 I’m currently learning **Rust, Swift, Jenkins**
+### 📌 Current Activities
 
-- 👨‍💻 Upwork at [https://www.upwork.com/freelancers/delower](https://www.upwork.com/freelancers/~0167a0eee87fe1d900)
-- 👨‍💻 Apify Marketplace at [https://apify.com/sandaliaapps](https://apify.com/sandaliaapps)
-- 👨‍💻 Google Play Store at [https://play.google.com](https://play.google.com/store/apps/dev?id=5334255615129443263)
-- 👨‍💻 Windows App Store at [https://apps.microsoft.com](https://apps.microsoft.com/search/publisher?name=Sandalia+Games)
-- 👨‍💻 Wordpress Repository at [https://profiles.wordpress.org/delower186/](https://profiles.wordpress.org/delower186/)
+| Type                     | Description                                                                                             |
+|--------------------------|---------------------------------------------------------------------------------------------------------|
+| 🔭 Currently Working On  | [LaraKickStarter](https://github.com/delower186/LaraKickStarter)                                        |
+| 🌱 Currently Learning    | **Rust, Swift**                                                                                     |
 
-- 💬 Ask me about: 
-  - Programming Languages: **Java, C#, C, PHP, Python, Kotlin, SQL, JavaScript, HTML, CSS**
-  - Automation: **Selenium, Appium, Playwright, Cypress, JMeter, Postman**
-  - Web Scraper: **Crawlee, Beautiful Soup, Scrapy**
-  - Security: **Zap**
-  - AI/LLM: **ChatGPT, Ollama**
-  - Full Stack Development:
-    - Databases: **MySQL, SQLite, MariaDB, Airtable**
-    - Web
-      - Frameworks: **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**
-    - Cross Platform (Android, iOS, Windows)
-      - Frameworks: **.NET MAUI, Flutter**
+### 🛒 Marketplace Profiles
 
-- 📫 How to reach me **delower@sandalia.com.bd**
+| Marketplace               | Link                                                                                   |
+|---------------------------|----------------------------------------------------------------------------------------|
+| Upwork                    | [Upwork Profile](https://www.upwork.com/freelancers/~0167a0eee87fe1d900)               |
+| Apify Marketplace         | [Apify Profile](https://apify.com/sandaliaapps)                                        |
+| Google Play Store         | [Google Play](https://play.google.com/store/apps/dev?id=5334255615129443263)           |
+| Windows App Store         | [Microsoft Store](https://apps.microsoft.com/search/publisher?name=Sandalia+Games)     |
+| WordPress Repository      | [WordPress Profile](https://profiles.wordpress.org/delower186/)                        |
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)
 
-- ⚡ Fun fact **I think I am childish :)**
+
+### 💬 Ask me about
+
+| Category                     | Tools / Technologies                                                  |
+|------------------------------|-----------------------------------------------------------------------|
+| Programming Languages        | **Java, C#, C, PHP, Python, Kotlin, SQL, JavaScript, HTML, CSS**         |
+| Automation                   | **Selenium, Appium, Playwright, Cypress, JMeter, Postman**              |
+| Web Scraper                  | **Crawlee, Beautiful Soup, Scrapy**                                      |
+| Security                     | **Zap**                                                                   |
+| AI/LLM                       | **ChatGPT, Ollama**                                                       |
+| Databases                    | **MySQL, SQLite, MariaDB, Airtable**                                     |
+| Web Frameworks               | **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**                   |
+| Cross-Platform Frameworks    | **.NET MAUI, Flutter**                                                    |
+| CI/CD                        | **GitHub Actions, Jenkins**                                                             |
+
 
 ###
 <h3 align="left">🏆   My Tropies :</h3>
