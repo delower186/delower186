@@ -24,27 +24,51 @@
 <h1 align="center">Hi 👋, I'm Delower</h1>
 <h3 align="center">Full Stack Developer | QA Automation Specialist | Web Scraping & AI Enthusiast</h3>
 
-###
+##
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+##
+
 I help businesses build fast, reliable, and automated solutions across web, mobile, and desktop platforms.
+
+---
+
+<h3 align="left">📬 Contact</h3>
+
+##
+
+<div align="center">
 
 | 🔖 Info Type            | 📌 Details                                                                                   |
 |------------------------|----------------------------------------------------------------------------------------------|
 | 📫 Email               | [delower@sandalia.com.bd](mailto:delower@sandalia.com.bd)                                    |
 | 📄 LinkedIn Profile    | [linkedin.com/in/delower186](https://www.linkedin.com/in/delower186)                         |
-| ⚡ Fun Fact            | I think I am childish 😊   
 
-### 📌 Current Activities
+<div>
+
+---
+
+<h3 align="left">📌 Current Activities</h3>
+
+##
+
+<div align="center">
 
 | Type                     | Description                                                                                             |
 |--------------------------|---------------------------------------------------------------------------------------------------------|
 | 🔭 Currently Working On  | [LaraKickStarter](https://github.com/delower186/LaraKickStarter)                                        |
 | 🌱 Currently Learning    | **Rust, Swift**                                                                                     |
 
-### 🛒 Marketplace Profiles
+<div>
+
+---
+
+<h3 align="left">🛒 Marketplace Profiles</h3>
+
+<div align="center">
+  
+##
 
 | Marketplace               | Link                                                                                   |
 |---------------------------|----------------------------------------------------------------------------------------|
@@ -54,9 +78,15 @@ I help businesses build fast, reliable, and automated solutions across web, mobi
 | Windows App Store         | [Microsoft Store](https://apps.microsoft.com/search/publisher?name=Sandalia+Games)     |
 | WordPress Repository      | [WordPress Profile](https://profiles.wordpress.org/delower186/)                        |
 
+</div>
 
+---
 
-### 💬 Ask me about
+<h3 align="left">💬 Ask me about</h3>
+
+<div align="center">
+
+  ##
 
 | Category                     | Tools / Technologies                                                  |
 |------------------------------|-----------------------------------------------------------------------|
@@ -70,8 +100,12 @@ I help businesses build fast, reliable, and automated solutions across web, mobi
 | Cross-Platform Frameworks    | **.NET MAUI, Flutter**                                                    |
 | CI/CD                        | **GitHub Actions, Jenkins**                                                             |
 
+</div>
+
+---
 
 ###
+
 <h3 align="left">🏆   My Tropies :</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delower186" alt="delower186" /></a>
 
