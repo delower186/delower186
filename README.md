@@ -55,7 +55,7 @@ I help businesses build fast, reliable, and automated solutions across web, mobi
 | Type                     | Description                                                                                             |
 |--------------------------|---------------------------------------------------------------------------------------------------------|
 | 🔭 Currently Working On  | [LaraKickStarter](https://github.com/delower186/LaraKickStarter)                                        |
-| 🌱 Currently Learning    | **Rust, Swift**                                                                                     |
+| 🌱 Currently Learning    | **Rust**                                                                                     |
 
 <div>
 
