@@ -91,7 +91,7 @@ I help businesses build fast, reliable, and automated solutions across web, mobi
 | Automation                   | **Selenium, Appium, Playwright, Cypress, JMeter, Postman**              |
 | Web Scraper                  | **Crawlee, Beautiful Soup, Scrapy**                                      |
 | Security                     | **Zap**                                                                   |
-| AI/LLM                       | **ChatGPT, Ollama**                                                       |
+| AI/LLM                       | **ChatGPT, DeepSeek, Ollama, TensorFlow, PyTorch**                                                       |
 | Databases                    | **MySQL, SQLite, MariaDB, Airtable**                                     |
 | Web Frameworks               | **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**                   |
 | Cross-Platform Frameworks    | **.NET MAUI, Flutter**                                                    |
