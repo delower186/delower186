@@ -87,7 +87,7 @@ I help businesses build fast, reliable, and automated solutions across web, mobi
 
 | Category                     | Tools / Technologies                                                  |
 |------------------------------|-----------------------------------------------------------------------|
-| Programming Languages        | **Java, C#, C, PHP, Python, Kotlin, SQL, JavaScript, HTML, CSS**         |
+| Programming Languages        | **Java, C#, C, C++, PHP, Python, Kotlin, SQL, JavaScript, HTML, CSS**         |
 | Automation                   | **Selenium, Appium, Playwright, Cypress, JMeter, Postman**              |
 | Web Scraper                  | **Crawlee, Beautiful Soup, Scrapy**                                      |
 | Security                     | **Zap**                                                                   |
