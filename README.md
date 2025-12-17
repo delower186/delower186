@@ -93,7 +93,7 @@ I help businesses build fast, reliable, and automated solutions across web, mobi
 | Security                     | **Zap**                                                                   |
 | AI/LLM                       | **ChatGPT, DeepSeek, Ollama, TensorFlow, PyTorch**                                                       |
 | Databases                    | **MySQL, SQLite, MariaDB, Airtable**                                     |
-| Web Frameworks               | **Laravel, WordPress, Bootstrap, jQuery, Tailwindcss**                   |
+| Web Frameworks               | **Laravel, Django, WordPress, Bootstrap, jQuery, Tailwindcss**                   |
 | Cross-Platform Frameworks    | **.NET MAUI, Flutter**                                                    |
 | CI/CD                        | **GitHub Actions, Jenkins**                                                             |
 
